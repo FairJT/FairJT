@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FairJT
-- 👀 I’m interested in blockchain, security, smartcontract vulnerabilities
+- 👀 I’m interested in blockchain, security, smartcontract vulnerabilities and also web developing
 - 🌱 I’m currently learning solidity programming 
 - 📫 How to reach me r.jahantigh@gmail.com
 
